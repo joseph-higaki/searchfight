@@ -1,0 +1,293 @@
+{  
+    "_type":"SearchResponse",
+    "instrumentation":{  
+       "_type":"ResponseInstrumentation",
+       "pingUrlBase":"https://www.bingapis.com/api/ping?IG=336F464C86C94ACCB9758E1E890BEF37&CID=31D2962417EE692C20489B4D1613685B&ID=",
+       "pageLoadPingUrl":"https://www.bingapis.com/api/ping/pageload?IG=336F464C86C94ACCB9758E1E890BEF37&CID=31D2962417EE692C20489B4D1613685B&Type=Event.CPT&DATA=0"
+    },
+    "queryContext":{  
+       "originalQuery":"java"
+    },
+    "webPages":{  
+       "webSearchUrl":"https://www.bing.com/search?q=java",
+       "webSearchUrlPingSuffix":"DevEx,5494.1",
+       "totalEstimatedMatches":23500000,
+       "value":[  
+          {  
+             "id":"https://api.cognitive.microsoft.com/api/v7/#WebPages.0",
+             "name":"Descarga gratuita de software de Java",
+             "url":"https://www.java.com/es/download/",
+             "urlPingSuffix":"DevEx,5259.1",
+             "isFamilyFriendly":true,
+             "displayUrl":"https://www.java.com/es/download",
+             "snippet":"Esta página es la fuente para descargar o actualizar el Java Runtime Environment (JRE, Java Runtime) ya existente, también conocido como plugin de Java (plugin ...",
+             "dateLastCrawled":"2019-05-24T10:34:00.0000000Z",
+             "fixedPosition":false,
+             "language":"es",
+             "isNavigational":false
+          },
+          {  
+             "id":"https://api.cognitive.microsoft.com/api/v7/#WebPages.1",
+             "name":"java.com: Java + You",
+             "url":"http://www.java.com/",
+             "urlPingSuffix":"DevEx,5272.1",
+             "about":[  
+                {  
+                   "name":"Java"
+                },
+                {  
+                   "name":"Java"
+                }
+             ],
+             "isFamilyFriendly":true,
+             "displayUrl":"www.java.com",
+             "snippet":"Java+You, Download Today! Java Download",
+             "dateLastCrawled":"2019-05-23T18:26:00.0000000Z",
+             "fixedPosition":false,
+             "language":"en",
+             "isNavigational":false
+          },
+          {  
+             "id":"https://api.cognitive.microsoft.com/api/v7/#WebPages.2",
+             "name":"java.com: Java y Tú",
+             "url":"https://www.java.com/es/",
+             "urlPingSuffix":"DevEx,5283.1",
+             "isFamilyFriendly":true,
+             "displayUrl":"https://www.java.com/es",
+             "snippet":"Descargue ya el software de Java en su equipo.",
+             "dateLastCrawled":"2019-05-23T20:00:00.0000000Z",
+             "fixedPosition":false,
+             "language":"es",
+             "isNavigational":false
+          },
+          {  
+             "id":"https://api.cognitive.microsoft.com/api/v7/#WebPages.3",
+             "name":"Download Free Java Software",
+             "url":"https://www.java.com/download",
+             "urlPingSuffix":"DevEx,5295.1",
+             "about":[  
+                {  
+                   "name":"Java"
+                }
+             ],
+             "isFamilyFriendly":true,
+             "displayUrl":"https://www.java.com/download",
+             "snippet":"This page is your source to download or update your existing Java Runtime Environment (JRE, Java Runtime), also known as the Java plug-in (plugin), Java Virtual ...",
+             "dateLastCrawled":"2019-05-22T06:47:00.0000000Z",
+             "fixedPosition":false,
+             "language":"en",
+             "isNavigational":false
+          },
+          {  
+             "id":"https://api.cognitive.microsoft.com/api/v7/#WebPages.4",
+             "name":"¿Qué es Java y para qué es necesario?",
+             "url":"https://www.java.com/es/download/faq/whatis_java.xml",
+             "urlPingSuffix":"DevEx,5307.1",
+             "isFamilyFriendly":true,
+             "displayUrl":"https://www.java.com/es/download/faq/whatis_java.xml",
+             "snippet":"¿Qué es la tecnología Java y para qué la necesito? Java es un lenguaje de programación y una plataforma informática comercializada por primera vez en 1995 por ...",
+             "dateLastCrawled":"2019-05-23T16:47:00.0000000Z",
+             "fixedPosition":false,
+             "language":"es",
+             "isNavigational":false
+          },
+          {  
+             "id":"https://api.cognitive.microsoft.com/api/v7/#WebPages.5",
+             "name":"Versiones de Java 7 y Java 8 por fecha",
+             "url":"https://java.com/es/download/faq/release_dates.xml",
+             "urlPingSuffix":"DevEx,5321.1",
+             "isFamilyFriendly":true,
+             "displayUrl":"https://java.com/es/download/faq/release_dates.xml",
+             "snippet":"Para actualizaciones de parches críticos de Oracle Java SE, las próximas fechas programadas son: 16 de julio de 2019; 15 de octubre de 2019; 14 de enero de 2020",
+             "dateLastCrawled":"2019-05-23T13:39:00.0000000Z",
+             "fixedPosition":false,
+             "richCaption":{  
+                "_type":"StructuredValue/TabularData",
+                "rowCount":4,
+                "columnCount":2,
+                "header":[  
+                   "Versiones de Java",
+                   "Fecha de publicación"
+                ],
+                "rows":[  
+                   {  
+                      "cells":[  
+                         {  
+                            "text":"Java 8 Update 211 CPU Java 8 Update 212 PSU (OTN)"
+                         },
+                         {  
+                            "text":"16 de abril de 2019"
+                         }
+                      ]
+                   },
+                   {  
+                      "cells":[  
+                         {  
+                            "text":"Java 8 Update 201 CPU Java 8 Update 202 PSU (OTN)"
+                         },
+                         {  
+                            "text":"15 de enero de 2019"
+                         }
+                      ]
+                   },
+                   {  
+                      "cells":[  
+                         {  
+                            "text":"Java 8 Update 191 CPU Java 8 Update 192 PSU (OTN)"
+                         },
+                         {  
+                            "text":"16 de octubre de 2018"
+                         }
+                      ]
+                   },
+                   {  
+                      "cells":[  
+                         {  
+                            "text":"Java 8 Update 181 CPU"
+                         },
+                         {  
+                            "text":"17 de julio de 2018"
+                         }
+                      ]
+                   }
+                ],
+                "seeMoreUrl":{  
+                   "text":"Ver las 7 filas en java.com",
+                   "url":"https://java.com/es/download/faq/release_dates.xml",
+                   "urlPingSuffix":"DevEx,5495.1"
+                }
+             },
+             "language":"es",
+             "isNavigational":false
+          },
+          {  
+             "id":"https://api.cognitive.microsoft.com/api/v7/#WebPages.6",
+             "name":"Centro de ayuda de Java",
+             "url":"https://www.java.com/es/download/help/",
+             "urlPingSuffix":"DevEx,5332.1",
+             "isFamilyFriendly":true,
+             "displayUrl":"https://www.java.com/es/download/help",
+             "snippet":"Centro de ayuda de Java: cómo obtener ayuda de Java y los applets de Java en ejecución",
+             "dateLastCrawled":"2019-05-22T14:20:00.0000000Z",
+             "fixedPosition":false,
+             "language":"es",
+             "isNavigational":false
+          },
+          {  
+             "id":"https://api.cognitive.microsoft.com/api/v7/#WebPages.7",
+             "name":"Desinstalación de las versiones anteriores de Java",
+             "url":"https://java.com/es/download/help/troubleshoot_java.xml",
+             "urlPingSuffix":"DevEx,5343.1",
+             "isFamilyFriendly":true,
+             "displayUrl":"https://java.com/es/download/help/troubleshoot_java.xml",
+             "snippet":"Pasos básicos para la solución de problemas relativos a Java",
+             "dateLastCrawled":"2019-05-22T23:39:00.0000000Z",
+             "fixedPosition":false,
+             "language":"es",
+             "isNavigational":false
+          },
+          {  
+             "id":"https://api.cognitive.microsoft.com/api/v7/#WebPages.8",
+             "name":"Windows 10 y Java",
+             "url":"https://java.com/es/download/faq/win10_faq.xml",
+             "urlPingSuffix":"DevEx,5355.1",
+             "isFamilyFriendly":true,
+             "displayUrl":"https://java.com/es/download/faq/win10_faq.xml",
+             "snippet":"¿Está soportado Java en Windows 10? Sí, Java está certificado en Windows 10 desde la versión Java 8 Update 51. ¿Se ejecutará Java en mi navegador en Windows 10?",
+             "dateLastCrawled":"2019-05-21T07:24:00.0000000Z",
+             "fixedPosition":false,
+             "language":"es",
+             "isNavigational":false
+          },
+          {  
+             "id":"https://api.cognitive.microsoft.com/api/v7/#WebPages.9",
+             "name":"java.com: JAVA + Você",
+             "url":"https://www.java.com/pt_BR/",
+             "urlPingSuffix":"DevEx,5366.1",
+             "isFamilyFriendly":true,
+             "displayUrl":"https://www.java.com/pt_BR",
+             "snippet":"Faça o download do software Java para seu computador agora!",
+             "dateLastCrawled":"2019-05-22T08:13:00.0000000Z",
+             "fixedPosition":false,
+             "language":"pt",
+             "isNavigational":false
+          }
+       ]
+    },
+    "rankingResponse":{  
+       "mainline":{  
+          "items":[  
+             {  
+                "answerType":"WebPages",
+                "resultIndex":0,
+                "value":{  
+                   "id":"https://api.cognitive.microsoft.com/api/v7/#WebPages.0"
+                }
+             },
+             {  
+                "answerType":"WebPages",
+                "resultIndex":1,
+                "value":{  
+                   "id":"https://api.cognitive.microsoft.com/api/v7/#WebPages.1"
+                }
+             },
+             {  
+                "answerType":"WebPages",
+                "resultIndex":2,
+                "value":{  
+                   "id":"https://api.cognitive.microsoft.com/api/v7/#WebPages.2"
+                }
+             },
+             {  
+                "answerType":"WebPages",
+                "resultIndex":3,
+                "value":{  
+                   "id":"https://api.cognitive.microsoft.com/api/v7/#WebPages.3"
+                }
+             },
+             {  
+                "answerType":"WebPages",
+                "resultIndex":4,
+                "value":{  
+                   "id":"https://api.cognitive.microsoft.com/api/v7/#WebPages.4"
+                }
+             },
+             {  
+                "answerType":"WebPages",
+                "resultIndex":5,
+                "value":{  
+                   "id":"https://api.cognitive.microsoft.com/api/v7/#WebPages.5"
+                }
+             },
+             {  
+                "answerType":"WebPages",
+                "resultIndex":6,
+                "value":{  
+                   "id":"https://api.cognitive.microsoft.com/api/v7/#WebPages.6"
+                }
+             },
+             {  
+                "answerType":"WebPages",
+                "resultIndex":7,
+                "value":{  
+                   "id":"https://api.cognitive.microsoft.com/api/v7/#WebPages.7"
+                }
+             },
+             {  
+                "answerType":"WebPages",
+                "resultIndex":8,
+                "value":{  
+                   "id":"https://api.cognitive.microsoft.com/api/v7/#WebPages.8"
+                }
+             },
+             {  
+                "answerType":"WebPages",
+                "resultIndex":9,
+                "value":{  
+                   "id":"https://api.cognitive.microsoft.com/api/v7/#WebPages.9"
+                }
+             }
+          ]
+       }
+    }
+ }

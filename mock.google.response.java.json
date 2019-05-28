@@ -1,0 +1,360 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+     "type": "application/json",
+     "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+     "request": [
+      {
+       "title": "Google Custom Search - java",
+       "totalResults": "8620000",
+       "searchTerms": "java",
+       "count": 10,
+       "startIndex": 1,
+       "inputEncoding": "utf8",
+       "outputEncoding": "utf8",
+       "safe": "off",
+       "cx": "010922800395368098669:vntth_c10be"
+      }
+     ],
+     "nextPage": [
+      {
+       "title": "Google Custom Search - java",
+       "totalResults": "8620000",
+       "searchTerms": "java",
+       "count": 10,
+       "startIndex": 11,
+       "inputEncoding": "utf8",
+       "outputEncoding": "utf8",
+       "safe": "off",
+       "cx": "010922800395368098669:vntth_c10be"
+      }
+     ]
+    },
+    "context": {
+     "title": "Google"
+    },
+    "searchInformation": {
+     "searchTime": 0.40647,
+     "formattedSearchTime": "0.41",
+     "totalResults": "8620000",
+     "formattedTotalResults": "8,620,000"
+    },
+    "items": [
+     {
+      "kind": "customsearch#result",
+      "title": "Google Java, 111 W Java Dr, Sunnyvale, CA, 94089, us - Google ...",
+      "htmlTitle": "Google \u003cb\u003eJava\u003c/b\u003e, 111 W \u003cb\u003eJava\u003c/b\u003e Dr, Sunnyvale, CA, 94089, us - Google ...",
+      "link": "https://www.google.com/maps/search/?api=1&query=Google+Java%2C+111+W+Java+Dr%2C+Sunnyvale%2C+CA%2C+94089%2C+us&query_place_id=ChIJI2L8CpC3j4ARYgYehhPndwo",
+      "displayLink": "www.google.com",
+      "snippet": "Google Java, 111 W Java Dr, Sunnyvale, CA, 94089, us. Your location. Trails. \nDedicated lanes. Bicycle-friendly roads. Dirt/unpaved trails. Live traffic. Fast. Slow\n.",
+      "htmlSnippet": "Google \u003cb\u003eJava\u003c/b\u003e, 111 W \u003cb\u003eJava\u003c/b\u003e Dr, Sunnyvale, CA, 94089, us. Your location. Trails. \u003cbr\u003e\nDedicated lanes. Bicycle-friendly roads. Dirt/unpaved trails. Live traffic. Fast. Slow\u003cbr\u003e\n.",
+      "cacheId": "CV_9hJcrELAJ",
+      "formattedUrl": "https://www.google.com/.../search/?...Java%2C...Java...",
+      "htmlFormattedUrl": "https://www.google.com/.../search/?...\u003cb\u003eJava\u003c/b\u003e%2C...\u003cb\u003eJava\u003c/b\u003e...",
+      "pagemap": {
+       "cse_thumbnail": [
+        {
+         "width": "204",
+         "height": "247",
+         "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUDTMfgWSotdHvbOKW4AmY1steqsilnDJS4q33zGx-d0AXvvxPiFY9Mvs"
+        }
+       ],
+       "metatags": [
+        {
+         "viewport": "initial-scale=1.0, user-scalable=no",
+         "referrer": "origin",
+         "google": "notranslate",
+         "twitter:card": "summary",
+         "theme-color": "#3367D6"
+        }
+       ],
+       "cse_image": [
+        {
+         "src": "https://maps.gstatic.com/tactile/basepage/pegman_sherlock.png"
+        }
+       ]
+      }
+     },
+     {
+      "kind": "customsearch#result",
+      "title": "Java Roaster, 130 N 3rd St, Lafayette, IN, 47901, us - Google Maps",
+      "htmlTitle": "\u003cb\u003eJava\u003c/b\u003e Roaster, 130 N 3rd St, Lafayette, IN, 47901, us - Google Maps",
+      "link": "https://www.google.com/maps/search/?api=1&query=Java+Roaster%2C+130+N+3rd+St%2C+Lafayette%2C+IN%2C+47901%2C+us&query_place_id=ChIJqW-k9FodE4gRSXV8yYRjSlY",
+      "displayLink": "www.google.com",
+      "snippet": "Java Roaster, 130 N 3rd St, Lafayette, IN, 47901, us. Your location. Trails. \nDedicated lanes. Bicycle-friendly roads. Dirt/unpaved trails. Live traffic. Fast. Slow\n.",
+      "htmlSnippet": "\u003cb\u003eJava\u003c/b\u003e Roaster, 130 N 3rd St, Lafayette, IN, 47901, us. Your location. Trails. \u003cbr\u003e\nDedicated lanes. Bicycle-friendly roads. Dirt/unpaved trails. Live traffic. Fast. Slow\u003cbr\u003e\n.",
+      "cacheId": "wm-2TlsMjiwJ",
+      "formattedUrl": "https://www.google.com/maps/search/?api...Java...",
+      "htmlFormattedUrl": "https://www.google.com/maps/search/?api...\u003cb\u003eJava\u003c/b\u003e...",
+      "pagemap": {
+       "cse_thumbnail": [
+        {
+         "width": "204",
+         "height": "247",
+         "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUDTMfgWSotdHvbOKW4AmY1steqsilnDJS4q33zGx-d0AXvvxPiFY9Mvs"
+        }
+       ],
+       "metatags": [
+        {
+         "viewport": "initial-scale=1.0, user-scalable=no",
+         "referrer": "origin",
+         "google": "notranslate",
+         "twitter:card": "summary",
+         "theme-color": "#3367D6"
+        }
+       ],
+       "cse_image": [
+        {
+         "src": "https://maps.gstatic.com/tactile/basepage/pegman_sherlock.png"
+        }
+       ]
+      }
+     },
+     {
+      "kind": "customsearch#result",
+      "title": "La Taza Java Coffee House, 15060 San Pedro Ave, San Antonio, TX ...",
+      "htmlTitle": "La Taza \u003cb\u003eJava\u003c/b\u003e Coffee House, 15060 San Pedro Ave, San Antonio, TX ...",
+      "link": "https://www.google.com/maps/search/?api=1&query=La+Taza+Java+Coffee+House%2C+15060+San+Pedro+Ave%2C+San+Antonio%2C+TX%2C+78232%2C+us&query_place_id=ChIJzROCG3GKXIYRaH2HvdyearQ",
+      "displayLink": "www.google.com",
+      "snippet": "La Taza Java Coffee House, 15060 San Pedro Ave, San Antonio, TX, 78232, us. \nConnect to internet to see place info. La Taza Java Coffee House, 15060 San ...",
+      "htmlSnippet": "La Taza \u003cb\u003eJava\u003c/b\u003e Coffee House, 15060 San Pedro Ave, San Antonio, TX, 78232, us. \u003cbr\u003e\nConnect to internet to see place info. La Taza \u003cb\u003eJava\u003c/b\u003e Coffee House, 15060 San&nbsp;...",
+      "cacheId": "gSI2O9hsWPoJ",
+      "formattedUrl": "https://www.google.com/.../search/?api...Java...",
+      "htmlFormattedUrl": "https://www.google.com/.../search/?api...\u003cb\u003eJava\u003c/b\u003e...",
+      "pagemap": {
+       "cse_thumbnail": [
+        {
+         "width": "204",
+         "height": "247",
+         "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUDTMfgWSotdHvbOKW4AmY1steqsilnDJS4q33zGx-d0AXvvxPiFY9Mvs"
+        }
+       ],
+       "metatags": [
+        {
+         "viewport": "initial-scale=1.0, user-scalable=no",
+         "referrer": "origin",
+         "google": "notranslate",
+         "twitter:card": "summary",
+         "theme-color": "#3367D6"
+        }
+       ],
+       "cse_image": [
+        {
+         "src": "https://maps.gstatic.com/tactile/basepage/pegman_sherlock.png"
+        }
+       ]
+      }
+     },
+     {
+      "kind": "customsearch#result",
+      "title": "120 Java Street - Google Maps",
+      "htmlTitle": "120 \u003cb\u003eJava\u003c/b\u003e Street - Google Maps",
+      "link": "https://www.google.com/maps/search/?api=1&query=120+Java+Street&query_place_id=ChIJyZbwg0BZwokRsLztDZde-iE",
+      "displayLink": "www.google.com",
+      "snippet": "120 Java Street. Connect to internet to see place info. 120 Java Street. Directions\n. Show map. Directions. Sign in. Traffic Transit Bicycling Satellite Terrain.",
+      "htmlSnippet": "120 \u003cb\u003eJava\u003c/b\u003e Street. Connect to internet to see place info. 120 \u003cb\u003eJava\u003c/b\u003e Street. Directions\u003cbr\u003e\n. Show map. Directions. Sign in. Traffic Transit Bicycling Satellite Terrain.",
+      "cacheId": "Tl7XMD1_Mb0J",
+      "formattedUrl": "https://www.google.com/maps/search/?api=1...120+Java...",
+      "htmlFormattedUrl": "https://www.google.com/maps/search/?api=1...120+\u003cb\u003eJava\u003c/b\u003e...",
+      "pagemap": {
+       "cse_thumbnail": [
+        {
+         "width": "204",
+         "height": "247",
+         "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUDTMfgWSotdHvbOKW4AmY1steqsilnDJS4q33zGx-d0AXvvxPiFY9Mvs"
+        }
+       ],
+       "metatags": [
+        {
+         "viewport": "initial-scale=1.0, user-scalable=no",
+         "referrer": "origin",
+         "google": "notranslate",
+         "twitter:card": "summary",
+         "theme-color": "#3367D6"
+        }
+       ],
+       "cse_image": [
+        {
+         "src": "https://maps.gstatic.com/tactile/basepage/pegman_sherlock.png"
+        }
+       ]
+      }
+     },
+     {
+      "kind": "customsearch#result",
+      "title": "Java Lava Brew, 1201 Southmore Blvd, Houston, TX, 77004, us ...",
+      "htmlTitle": "\u003cb\u003eJava\u003c/b\u003e Lava Brew, 1201 Southmore Blvd, Houston, TX, 77004, us ...",
+      "link": "https://www.google.com/maps/search/?api=1&query=Java+Lava+Brew%2C+1201+Southmore+Blvd%2C+Houston%2C+TX%2C+77004%2C+us&query_place_id=ChIJhWiSWiO_QIYRWiBO08uhDco",
+      "displayLink": "www.google.com",
+      "snippet": "Save. Java Lava Brew, 1201 Southmore Blvd, Houston, TX, 77004, us. Connect \nto internet to see place info. Java Lava Brew, 1201 Southmore Blvd, Houston, ...",
+      "htmlSnippet": "Save. \u003cb\u003eJava\u003c/b\u003e Lava Brew, 1201 Southmore Blvd, Houston, TX, 77004, us. Connect \u003cbr\u003e\nto internet to see place info. \u003cb\u003eJava\u003c/b\u003e Lava Brew, 1201 Southmore Blvd, Houston,&nbsp;...",
+      "cacheId": "XiIbOQYRWFAJ",
+      "formattedUrl": "https://www.google.com/maps/search/?api...Java...",
+      "htmlFormattedUrl": "https://www.google.com/maps/search/?api...\u003cb\u003eJava\u003c/b\u003e...",
+      "pagemap": {
+       "cse_thumbnail": [
+        {
+         "width": "204",
+         "height": "247",
+         "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUDTMfgWSotdHvbOKW4AmY1steqsilnDJS4q33zGx-d0AXvvxPiFY9Mvs"
+        }
+       ],
+       "metatags": [
+        {
+         "viewport": "initial-scale=1.0, user-scalable=no",
+         "referrer": "origin",
+         "google": "notranslate",
+         "twitter:card": "summary",
+         "theme-color": "#3367D6"
+        }
+       ],
+       "cse_image": [
+        {
+         "src": "https://maps.gstatic.com/tactile/basepage/pegman_sherlock.png"
+        }
+       ]
+      }
+     },
+     {
+      "kind": "customsearch#result",
+      "title": "Newest Questions - Stack Overflow",
+      "htmlTitle": "Newest Questions - Stack Overflow",
+      "link": "https://www.google.com/appserve/mkt/p/ABMBUQPHQ80sj2heGvNhJkAVCdS6TJGQ6zRHRPW9jeEK75K0ZsfQoptvEImk2i0KpZ5UlS_BYcMwHHuR5f6NavBPrl5WeRk",
+      "displayLink": "www.google.com",
+      "snippet": "Cannot resolve method 'writeStream(java.io.OutputStream)' ... Hibernate Search \njava spring, searching only entities that have ids as specified · java spring jpa ...",
+      "htmlSnippet": "Cannot resolve method &#39;writeStream(\u003cb\u003ejava\u003c/b\u003e.io.OutputStream)&#39; ... Hibernate Search \u003cbr\u003e\n\u003cb\u003ejava\u003c/b\u003e spring, searching only entities that have ids as specified &middot; \u003cb\u003ejava\u003c/b\u003e spring jpa&nbsp;...",
+      "cacheId": "vGOvDTSq2k8J",
+      "formattedUrl": "https://www.google.com/.../ ABMBUQPHQ80sj2heGvNhJkAVCdS6TJGQ6zRHRPW9jeEK75K0...",
+      "htmlFormattedUrl": "https://www.google.com/.../ ABMBUQPHQ80sj2heGvNhJkAVCdS6TJGQ6zRHRPW9jeEK75K0...",
+      "pagemap": {
+       "metatags": [
+        {
+         "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0"
+        }
+       ]
+      }
+     },
+     {
+      "kind": "customsearch#result",
+      "title": "Puskesmas Situbondo hospital near situbondo east java indonesia ...",
+      "htmlTitle": "Puskesmas Situbondo hospital near situbondo east \u003cb\u003ejava\u003c/b\u003e indonesia ...",
+      "link": "https://www.google.com/maps/search/Puskesmas%20Situbondo%20hospital%20near%20situbondo%20east%20java%20indonesia/@-7.692154,114.0075352,21z?hl=en",
+      "displayLink": "www.google.com",
+      "snippet": "Find local businesses, view maps and get driving directions in Google Maps.",
+      "htmlSnippet": "Find local businesses, view maps and get driving directions in Google Maps.",
+      "cacheId": "tevKcmJoSWIJ",
+      "formattedUrl": "https://www.google.com/.../ Puskesmas%20Situbondo%20hospital%20near%20situbondo%20ea...",
+      "htmlFormattedUrl": "https://www.google.com/.../ Puskesmas%20Situbondo%20hospital%20near%20situbondo%20ea...",
+      "pagemap": {
+       "metatags": [
+        {
+         "viewport": "initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+         "google": "notranslate",
+         "referrer": "origin",
+         "og:title": "Puskesmas Situbondo hospital near situbondo east java indonesia",
+         "og:image": "https://maps.google.com/maps/api/staticmap?center=-7.67165569%2C113.94049586&zoom=10&size=200x200&markers=-7.692154%2C114.0075352%7C-7.7050532%2C113.9952789%7C-7.705091%2C113.9961636%7C-7.670014%2C114.0325328%7C-7.69448%2C114.03281%7C-7.702616%2C113.9563838%7C-7.6566121%2C114.0409076%7C-7.7074493%2C114.0207887%7C-7.690624%2C114.0646891%7C-7.6944237%2C114.0330994&sensor=false&client=google-maps-frontend&signature=9d_XvoyIucv4Sl6Udsgy0nvxOqU",
+         "og:image:width": "256",
+         "og:image:height": "256",
+         "og:site_name": "Puskesmas Situbondo hospital near situbondo east java indonesia",
+         "twitter:card": "summary"
+        }
+       ],
+       "place": [
+        {
+         "name": "Puskesmas Situbondo hospital near situbondo east java indonesia",
+         "image": "https://maps.google.com/maps/api/staticmap?center=-7.67165569%2C113.94049586&zoom=10&size=200x200&markers=-7.692154%2C114.0075352%7C-7.7050532%2C113.9952789%7C-7.705091%2C113.9961636%7C-7.670014%2C114.0325328%7C-7.69448%2C114.03281%7C-7.702616%2C113.9563838%7C-7.6566121%2C114.0409076%7C-7.7074493%2C114.0207887%7C-7.690624%2C114.0646891%7C-7.6944237%2C114.0330994&sensor=false&client=google-maps-frontend&signature=9d_XvoyIucv4Sl6Udsgy0nvxOqU"
+        }
+       ],
+       "cse_image": [
+        {
+         "src": "https://maps.google.com/maps/api/staticmap?center=-7.67165569%2C113.94049586&zoom=10&size=200x200&markers=-7.692154%2C114.0075352%7C-7.7050532%2C113.9952789%7C-7.705091%2C113.9961636%7C-7.670014%2C114.0325328%7C-7.69448%2C114.03281%7C-7.702616%2C113.9563838%7C-7.6566121%2C114.0409076%7C-7.7074493%2C114.0207887%7C-7.690624%2C114.0646891%7C-7.6944237%2C114.0330994&sensor=false&client=google-maps-frontend&signature=9d_XvoyIucv4Sl6Udsgy0nvxOqU"
+        }
+       ]
+      }
+     },
+     {
+      "kind": "customsearch#result",
+      "title": "finance - Google Search",
+      "htmlTitle": "finance - Google Search",
+      "link": "https://www.google.com/finance",
+      "displayLink": "www.google.com",
+      "snippet": "You may be interested in .DJI. 25,585.69. Dow Jones Industrial Average−190.92 \n(0.74%) · DAX. 12,011.04. DAX PERFORMANCE-INDEX+58.63 (0.49%).",
+      "htmlSnippet": "You may be interested in .DJI. 25,585.69. Dow Jones Industrial Average−190.92 \u003cbr\u003e\n(0.74%) &middot; DAX. 12,011.04. DAX PERFORMANCE-INDEX+58.63 (0.49%).",
+      "cacheId": "bkzF3n9XpJ4J",
+      "formattedUrl": "https://www.google.com/finance",
+      "htmlFormattedUrl": "https://www.google.com/finance",
+      "pagemap": {
+       "metatags": [
+        {
+         "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0",
+         "format-detection": "telephone=no",
+         "referrer": "origin",
+         "google": "notranslate"
+        }
+       ],
+       "searchresultspage": [
+        {
+         "image": "/images/branding/googleg/1x/googleg_standard_color_128dp.png"
+        }
+       ]
+      }
+     },
+     {
+      "kind": "customsearch#result",
+      "title": "Legal Notices",
+      "htmlTitle": "Legal Notices",
+      "link": "https://www.google.com/mobile/legalnotices/",
+      "displayLink": "www.google.com",
+      "snippet": "Google Maps for mobile (BlackBerry and Java ME versions): This product \nincludes TinyLine software developed by Andrew Girow (http://www.tinyline.com/)\n.",
+      "htmlSnippet": "Google Maps for mobile (BlackBerry and \u003cb\u003eJava\u003c/b\u003e ME versions): This product \u003cbr\u003e\nincludes TinyLine software developed by Andrew Girow (http://www.tinyline.com/)\u003cbr\u003e\n.",
+      "cacheId": "2qGCwb89p5UJ",
+      "formattedUrl": "https://www.google.com/mobile/legalnotices/",
+      "htmlFormattedUrl": "https://www.google.com/mobile/legalnotices/",
+      "pagemap": {
+       "metatags": [
+        {
+         "handheldfriendly": "true",
+         "format-detection": "telephone=no"
+        }
+       ]
+      }
+     },
+     {
+      "kind": "customsearch#result",
+      "title": "Google",
+      "htmlTitle": "Google",
+      "link": "https://www.google.com/setprefdomain?prefdom=IL&prev=https://www.google.co.il/&sig=0_ybp6s_dOvV6_W4BjV95Tdp-GcOc%3D",
+      "displayLink": "www.google.com",
+      "snippet": "Settings · Your data in Search · Help Send feedback. AllImages · Account · \nAssistant · Search · Maps · YouTube · Play · News · Gmail · Contacts · Drive · \nCalendar.",
+      "htmlSnippet": "Settings &middot; Your data in Search &middot; Help Send feedback. AllImages &middot; Account &middot; \u003cbr\u003e\nAssistant &middot; Search &middot; Maps &middot; YouTube &middot; Play &middot; News &middot; Gmail &middot; Contacts &middot; Drive &middot; \u003cbr\u003e\nCalendar.",
+      "cacheId": "ttAj-DaZbrwJ",
+      "formattedUrl": "https://www.google.com/setprefdomain?prefdom=IL...",
+      "htmlFormattedUrl": "https://www.google.com/setprefdomain?prefdom=IL...",
+      "pagemap": {
+       "cse_thumbnail": [
+        {
+         "width": "320",
+         "height": "112",
+         "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZLsnUfnCW8IzF9Kd0PJWZZAz6H4OO-la2j0MCxkrq91rv6yRLWLK7Z54"
+        }
+       ],
+       "metatags": [
+        {
+         "viewport": "width=device-width,minimum-scale=1.0",
+         "format-detection": "telephone=no",
+         "referrer": "origin",
+         "google": "notranslate"
+        }
+       ],
+       "cse_image": [
+        {
+         "src": "https://www.google.co.il/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png"
+        }
+       ]
+      }
+     }
+    ]
+   }
+   

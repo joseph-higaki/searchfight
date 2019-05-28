@@ -1,0 +1,14 @@
+C:\Users\josep\OneDrive\Documentos\projects\searchfight\bin\Debug\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Users\josep\OneDrive\Documentos\projects\searchfight\bin\Debug\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Users\josep\OneDrive\Documentos\projects\searchfight\bin\Debug\netcoreapp2.2\win10-x64\searchfight.exe
+C:\Users\josep\OneDrive\Documentos\projects\searchfight\bin\Debug\netcoreapp2.2\win10-x64\searchfight.deps.json
+C:\Users\josep\OneDrive\Documentos\projects\searchfight\bin\Debug\netcoreapp2.2\win10-x64\searchfight.runtimeconfig.json
+C:\Users\josep\OneDrive\Documentos\projects\searchfight\bin\Debug\netcoreapp2.2\win10-x64\searchfight.runtimeconfig.dev.json
+C:\Users\josep\OneDrive\Documentos\projects\searchfight\bin\Debug\netcoreapp2.2\win10-x64\searchfight.dll
+C:\Users\josep\OneDrive\Documentos\projects\searchfight\bin\Debug\netcoreapp2.2\win10-x64\searchfight.pdb
+C:\Users\josep\OneDrive\Documentos\projects\searchfight\obj\Debug\netcoreapp2.2\win10-x64\searchfight.csprojAssemblyReference.cache
+C:\Users\josep\OneDrive\Documentos\projects\searchfight\obj\Debug\netcoreapp2.2\win10-x64\searchfight.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documentos\projects\searchfight\obj\Debug\netcoreapp2.2\win10-x64\searchfight.AssemblyInfoInputs.cache
+C:\Users\josep\OneDrive\Documentos\projects\searchfight\obj\Debug\netcoreapp2.2\win10-x64\searchfight.AssemblyInfo.cs
+C:\Users\josep\OneDrive\Documentos\projects\searchfight\obj\Debug\netcoreapp2.2\win10-x64\searchfight.dll
+C:\Users\josep\OneDrive\Documentos\projects\searchfight\obj\Debug\netcoreapp2.2\win10-x64\searchfight.pdb
