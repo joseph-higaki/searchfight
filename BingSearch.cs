@@ -11,8 +11,8 @@ public class BingSearch : SearchEngine
         url = "https://api.cognitive.microsoft.com/bingcustomsearch/v7.0/search?q={0}&customconfig=<CUSTOM_CONFIG_ID>";
 
         //to-do: Read from secret repository
-        apiKey = "32da93d249c142abb669ce72b92f8b61";
-        customApiSearchAttribute = "d596c4bf-1338-48be-94cb-e23903e8562b";
+        apiKey = "";
+        customApiSearchAttribute = "";
         url = url.Replace("<CUSTOM_CONFIG_ID>", customApiSearchAttribute);
     }
 
