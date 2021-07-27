@@ -8,8 +8,8 @@ public class GoogleSearch : SearchEngine
     public GoogleSearch()
     {
         url = "https://www.googleapis.com/customsearch/v1?q={0}&cx={1}&key={2}";
-        apiKey = "AIzaSyC00JTgZqL9Mmy4cBcFTfxDxm9m1KDrVng";
-        customApiSearchAttribute = "010922800395368098669:vntth_c10be";
+        apiKey = "";
+        customApiSearchAttribute = "";
     }
 
     protected override System.IO.Stream GetWebResponseStream(string keywords)
